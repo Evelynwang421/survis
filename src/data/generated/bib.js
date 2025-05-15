@@ -1,4 +1,19 @@
 ﻿const generatedBibEntries = {
+      "R2023": {
+        "author": "R. Latikka, E. Bergdahl, et al.",
+        "title": "AI as an Artist? A Two-Wave Survey Study on Attitudes Toward AI in Art",
+        "year": "2023",
+        "journal": "ScienceDirect",
+        "keywords": "AI Art, Public Perception, Survey, Empirical",
+        "type": "article",
+        "abstract": "This article discusses themes in AI and artistic practice, focusing on AI as an Artist? A Two-Wave Survey Study on Attitudes Toward AI in Art.",
+        "doi": "10.1016/j.artint.2023.103927",
+        "url": "https://doi.org/10.1016/j.artint.2023.103927",
+        "publisher": "Independent",
+        "series": "N/A",
+        "number": "1",
+        "volume": "1"
+    },
      "Baptiste2024": {
         "author": "Baptiste Caramiaux, et al.",
         "title": "Generative AI and Creative Work: Narratives, Values, and Impacts",
@@ -9,21 +24,6 @@
         "abstract": "This article discusses themes in AI and artistic practice, focusing on Generative AI and Creative Work.",
         "doi": "10.48550/arXiv.2502.03940",
         "url": "https://doi.org/10.48550/arXiv.2502.03940",
-        "publisher": "Independent",
-        "series": "N/A",
-        "number": "1",
-        "volume": "1"
-    },
-    "R2023": {
-        "author": "R. Latikka, E. Bergdahl, et al.",
-        "title": "AI as an Artist? A Two-Wave Survey Study on Attitudes Toward AI in Art",
-        "year": "2023",
-        "journal": "ScienceDirect",
-        "keywords": "AI Art, Public Perception, Survey, Empirical",
-        "type": "article",
-        "abstract": "This article discusses themes in AI and artistic practice, focusing on AI as an Artist? A Two-Wave Survey Study on Attitudes Toward AI in Art.",
-        "doi": "10.1016/j.artint.2023.103927",
-        "url": "https://doi.org/10.1016/j.artint.2023.103927",
         "publisher": "Independent",
         "series": "N/A",
         "number": "1",
